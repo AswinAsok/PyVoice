@@ -2,6 +2,6 @@
 
 This is a Simple Voice Text to Speech and Audio Recognition Assistant Developed Using Python
 
-# OS Used
+**OS Used**
  
  Windows 10
